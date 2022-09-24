@@ -1,10 +1,10 @@
 # Database_Experience
 # Resumo Banco de Dados SQL e NOSQL
 ## O Banco de Dados relacional
-O banco de dados relacional é baseado no modelo relacional, uma forma intuitiva e direta de representar os dados em tabelas, é estruturado em esquemas, projetando uma estrutura de relacionamento entre as linhas e colunas.
-O banco de dados é elaborado através do projeto conceitual com a análise dos requisitos do cliente alinhados com o projetista, um esquema conceitual do banco de dados é elaborado.
-Depois o projeto lógico com o mapeamento mais detalhado dos conceitos e de como eles serão organizados no banco de dados, seja em tabelas, esquemas, metadados das colunas, utilizando o diagrama ER.
-Na próxima etapa o projeto físico, nele são definidos os detalhes técnicos da implementação do banco de dados, como a forma que serão armazenados, os scripts que irão criar as tabelas e visões do banco.
+- O banco de dados relacional é baseado no modelo relacional, uma forma intuitiva e direta de representar os dados em tabelas, é estruturado em esquemas, projetando uma estrutura de relacionamento entre as linhas e colunas.
+- O banco de dados é elaborado através do projeto conceitual com a análise dos requisitos do cliente alinhados com o projetista, um esquema conceitual do banco de dados é elaborado.
+- Depois o projeto lógico com o mapeamento mais detalhado dos conceitos e de como eles serão organizados no banco de dados, seja em tabelas, esquemas, metadados das colunas, utilizando o diagrama ER.
+- Na próxima etapa o projeto físico, nele são definidos os detalhes técnicos da implementação do banco de dados, como a forma que serão armazenados, os scripts que irão criar as tabelas e visões do banco.
 ## Banco de Dados SQL
 - Baseado na álgebra relacional.
 - Modelo Hierárquico
