@@ -23,19 +23,19 @@ Na próxima etapa o projeto físico, nele são definidos os detalhes técnicos d
 - Cloud recursos de terceiros - Soluções de tecnologia como serviço Azure, AWS e etc.
 - Diferença entre Big Data e HPC
 - Processamento paralelo persistente e não persistente e modelos associados a cada tipo.
-Principais comandos SQL
-INSERT INTO
-SELECT*FROM
-CREATE TABLE
-ALTER TABLE
-DROP
-JOIN
-INNER JOIN
-LEFT JOIN
-RIGHT JOIN
-FULL JOIN
-CROSS JOIN
-UPDATE e DELETE
+### Principais comandos SQL
+- INSERT INTO
+- SELECT*FROM
+- CREATE TABLE
+- ALTER TABLE
+- DROP
+- JOIN
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
+- CROSS JOIN
+- UPDATE e DELETE
 O banco de dados não relacional, não exige a rigidez de esquemas para armazenar os dados, ele não limita os campos, diferente das colunas do SQL, os esquemas não são necessários. Eles representam qualquer banco ligado à Big Data e não seguem o modelo relacional fornecido pelos sistemas tradicionais de gerenciamento de dados. São diversos tipos, como chave - valor, grafo, coluna, documento.
 ## Modelos NoSQL
 - NoSQL (Not Only SQL).
