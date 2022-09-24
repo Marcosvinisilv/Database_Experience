@@ -36,7 +36,6 @@ O banco de dados relacional é baseado no modelo relacional, uma forma intuitiva
 - FULL JOIN
 - CROSS JOIN
 - UPDATE e DELETE
-- 
 ## Modelos NoSQL
 O banco de dados não relacional, não exige a rigidez de esquemas para armazenar os dados, ele não limita os campos, diferente das colunas do SQL, os esquemas não são necessários. Eles representam qualquer banco ligado à Big Data e não seguem o modelo relacional fornecido pelos sistemas tradicionais de gerenciamento de dados. São diversos tipos, como chave - valor, grafo, coluna, documento.
 - NoSQL (Not Only SQL).
@@ -60,7 +59,7 @@ O banco de dados não relacional, não exige a rigidez de esquemas para armazena
 - OLTP (Online Transaction Processing)
 - OLAP (Online Analytical Processing)
 - ELT (Extract, Load e Transform)
--DDL (Data Definition Language)
+- DDL (Data Definition Language)
 - SDL (Linguagem de Definição de Armazenamento)
 - VDL (Linguagem de Definição de Visões)
 - DCL (Linguagem de Controle de Dados)
