@@ -17,7 +17,7 @@ Na próxima etapa o projeto físico, nele são definidos os detalhes técnicos d
 - Computação paralela e distribuída.
 - Empírico
 - Baseado em tentativa e erro.
--Big Data
+- Big Data
 - Baseado na análise e exploração de dados.
 - Escalabilidade, possibilidade de usar em um volume maior de dados.
 - Cloud recursos de terceiros - Soluções de tecnologia como serviço Azure, AWS e etc.
@@ -36,8 +36,9 @@ Na próxima etapa o projeto físico, nele são definidos os detalhes técnicos d
 - FULL JOIN
 - CROSS JOIN
 - UPDATE e DELETE
-O banco de dados não relacional, não exige a rigidez de esquemas para armazenar os dados, ele não limita os campos, diferente das colunas do SQL, os esquemas não são necessários. Eles representam qualquer banco ligado à Big Data e não seguem o modelo relacional fornecido pelos sistemas tradicionais de gerenciamento de dados. São diversos tipos, como chave - valor, grafo, coluna, documento.
+- 
 ## Modelos NoSQL
+O banco de dados não relacional, não exige a rigidez de esquemas para armazenar os dados, ele não limita os campos, diferente das colunas do SQL, os esquemas não são necessários. Eles representam qualquer banco ligado à Big Data e não seguem o modelo relacional fornecido pelos sistemas tradicionais de gerenciamento de dados. São diversos tipos, como chave - valor, grafo, coluna, documento.
 - NoSQL (Not Only SQL).
 - Baseado em JSON.
 - Escalabilidade horizontal.
